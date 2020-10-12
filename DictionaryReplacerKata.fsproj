@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <Compile Include="Result.fs" />
         <Compile Include="DictionaryReplacer.fs" />
         <Compile Include="Tests.fs" />
         <Compile Include="Program.fs" />
